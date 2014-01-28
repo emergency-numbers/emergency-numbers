@@ -1,0 +1,13 @@
+{
+  "name": "emergency-numbers",
+  "version": "0.0.1",
+  "description": "Country-specific emergency numbers",
+  "repository": "git://github.com/emergency-numbers/emergency-numbers",
+  "license": "MIT",
+  "scripts": {
+    "install": "make"
+  },
+  "devDependencies": {
+    "component": "*"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "emergency-numbers",
+  "repo": "emergency-numbers/emergency-numbers",
+  "description": "Country-specific emergency numbers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/countries": "*",
+    "component/find": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
